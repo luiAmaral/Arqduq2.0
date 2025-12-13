@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4DHnn1AKi+RMX1h0S7OiuxkX+T1Q33Wzii7XkkMaaD0=",
+  "Hash": "ibnG+S5OxcgkwZ1YLb+I2FKb4JjqbJJqDl2cdHichCY=",
   "Source": "Arqduqq",
   "BasePath": "_content/Arqduqq",
   "Mode": "Default",
@@ -57,6 +57,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Projetos\\Arqduqq\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Arqduqq.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\casa-relva1.png",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/arq-images/casa-relva1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iff7cfth7n",
+      "Integrity": "In5N/wHd09/pw+k2FbLYlLI4Dy9L0LxRhtRUeRdeWjs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\arq-images\\casa-relva1.png"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\casa-relva2.png",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/arq-images/casa-relva2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lbtjw9rpxa",
+      "Integrity": "Me/lFwI4JIVG3/qi3Lgr5OCNJ941pEgaQB3NxGWZArc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\arq-images\\casa-relva2.png"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\equolibrio1.png",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/arq-images/equolibrio1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "utvijmjeqb",
+      "Integrity": "XtOl074hDkHghkqVpyMnkSsFUzUAXpG8qpn1N6+6ELU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\arq-images\\equolibrio1.png"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\logo-semfundo.png",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/arq-images/logo-semfundo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bl6d6344kp",
+      "Integrity": "Yas/uM888fT9TkCuSyQHIWarlNAqgMMDn07Gf2lgHis=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\arq-images\\logo-semfundo.png"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\css\\animate.css",
@@ -227,27 +311,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\owl.transitions.css"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\css\\slick.css",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/css/slick#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "psx3y2aomh",
-      "Integrity": "2RdmDD1veq0y68SwASxtC7hKE+IBoBLjNLzKS59Ghsk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\css\\slick.css"
-    },
-    {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\css\\slick-theme.css",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
@@ -267,6 +330,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\slick-theme.css"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\css\\slick.css",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/css/slick#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "psx3y2aomh",
+      "Integrity": "2RdmDD1veq0y68SwASxtC7hKE+IBoBLjNLzKS59Ghsk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\slick.css"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\css\\style.css",
@@ -521,6 +605,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.woff"
     },
     {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\fonts\\themify_1.eot",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/fonts/themify_1#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xoyi32mgbc",
+      "Integrity": "3/QV2uyRG2Xcpb4CBxoYJbdVCP8VjeW42Fl2lX25Mcs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\themify_1.eot"
+    },
+    {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\fonts\\themify.eot",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
@@ -582,69 +687,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\themify.woff"
-    },
-    {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\fonts\\themify_1.eot",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/fonts/themify_1#[.{fingerprint}]?.eot",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xoyi32mgbc",
-      "Integrity": "3/QV2uyRG2Xcpb4CBxoYJbdVCP8VjeW42Fl2lX25Mcs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fonts\\themify_1.eot"
-    },
-    {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\1.jpg",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/images/1#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "f6xwhxcj12",
-      "Integrity": "98QmTzmJ3jdS2d8VaKp2tEU5RjfGfbaSUZ8sLwgzSFc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\1.jpg"
-    },
-    {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\1.png",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/images/1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "jsij276qoe",
-      "Integrity": "44Now5bHCaALb9LPWaEECGX8EnsJ7Z0HkRTYMuasSK0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\1.png"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\1_1.jpg",
@@ -710,12 +752,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\1_3.jpg"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\2.jpg",
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\1.jpg",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
       "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/images/2#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -724,19 +766,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6cdpo58h3k",
-      "Integrity": "OuQz6vJei5zIcXvey/VtAUZndIdQu6X3DEBd+dbQ+Ac=",
+      "Fingerprint": "f6xwhxcj12",
+      "Integrity": "98QmTzmJ3jdS2d8VaKp2tEU5RjfGfbaSUZ8sLwgzSFc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\2.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\1.jpg"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\2.png",
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\1.png",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
       "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/images/2#[.{fingerprint}]?.png",
+      "RelativePath": "assets/images/1#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -745,11 +787,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m3bep1czxn",
-      "Integrity": "sgwqTV/zUi8pLVhoDgrJBOVrFuLvypQm+K3ruIC1LY8=",
+      "Fingerprint": "jsij276qoe",
+      "Integrity": "44Now5bHCaALb9LPWaEECGX8EnsJ7Z0HkRTYMuasSK0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\1.png"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\2_1.jpg",
@@ -815,12 +857,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\2_3.jpg"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\3.jpg",
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\2.jpg",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
       "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/images/3#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -829,19 +871,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6fsd8s3lx2",
-      "Integrity": "3saNNjm/14HP5txGLrFR1T2fvEiJ63pMlaZVdzZJ57c=",
+      "Fingerprint": "6cdpo58h3k",
+      "Integrity": "OuQz6vJei5zIcXvey/VtAUZndIdQu6X3DEBd+dbQ+Ac=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\3.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\2.jpg"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\3.png",
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\2.png",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
       "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/images/3#[.{fingerprint}]?.png",
+      "RelativePath": "assets/images/2#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -850,11 +892,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "z191stu2zn",
-      "Integrity": "F3RidOtQ6UVz3npe3xU2i6wmEc+/TAIBTad9FZG6/T8=",
+      "Fingerprint": "m3bep1czxn",
+      "Integrity": "sgwqTV/zUi8pLVhoDgrJBOVrFuLvypQm+K3ruIC1LY8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\3.png"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\2.png"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\3_1.jpg",
@@ -899,6 +941,69 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\3_2.jpg"
     },
     {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\3.jpg",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/images/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6fsd8s3lx2",
+      "Integrity": "3saNNjm/14HP5txGLrFR1T2fvEiJ63pMlaZVdzZJ57c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\3.jpg"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\3.png",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/images/3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z191stu2zn",
+      "Integrity": "F3RidOtQ6UVz3npe3xU2i6wmEc+/TAIBTad9FZG6/T8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\3.png"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\4_1.jpg",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/images/4_1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "28hesgf3i7",
+      "Integrity": "TiUDp/6RnOKy962TyoQjMgIqM/V+EfkjAwVIWUEhRmc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\4_1.jpg"
+    },
+    {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\4.jpg",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
@@ -939,27 +1044,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\4.png"
-    },
-    {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\4_1.jpg",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/images/4_1#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "28hesgf3i7",
-      "Integrity": "TiUDp/6RnOKy962TyoQjMgIqM/V+EfkjAwVIWUEhRmc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\4_1.jpg"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\5.png",
@@ -1046,27 +1130,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\buildings1.svg"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-architecture.jpg",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/images/classic-architecture#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ubadaksko3",
-      "Integrity": "drD6z3RifFySG99PMrivNJ351NRCvLKhZxGsxXqe/LU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\classic-architecture.jpg"
-    },
-    {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-architecture-dark.jpg",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
@@ -1088,12 +1151,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\classic-architecture-dark.jpg"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-interior-design.jpg",
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-architecture.jpg",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
       "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/images/classic-interior-design#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/classic-architecture#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,11 +1165,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "k13kkybrz3",
-      "Integrity": "mOfhDkpkAMDrSjsGhEzV1DD1T37UMFCkWX9A24BGffw=",
+      "Fingerprint": "ubadaksko3",
+      "Integrity": "drD6z3RifFySG99PMrivNJ351NRCvLKhZxGsxXqe/LU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\classic-interior-design.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\classic-architecture.jpg"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-interior-design-dark.jpg",
@@ -1151,6 +1214,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\classic-interior-design-s2.jpg"
     },
     {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-interior-design.jpg",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/images/classic-interior-design#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k13kkybrz3",
+      "Integrity": "mOfhDkpkAMDrSjsGhEzV1DD1T37UMFCkWX9A24BGffw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\classic-interior-design.jpg"
+    },
+    {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\construction-profile.jpg",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
@@ -1172,27 +1256,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\construction-profile.jpg"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\costruction.jpg",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/images/costruction#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "powwd8wu3s",
-      "Integrity": "eTrarnfwkSh0Id91Jkxq8HTKFd2RQFpctEKxWuBT2xA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\costruction.jpg"
-    },
-    {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\costruction-s2.jpg",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
@@ -1212,6 +1275,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\costruction-s2.jpg"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\costruction.jpg",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/images/costruction#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "powwd8wu3s",
+      "Integrity": "eTrarnfwkSh0Id91Jkxq8HTKFd2RQFpctEKxWuBT2xA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\costruction.jpg"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\dining-room1.svg",
@@ -1508,27 +1592,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\img-3.jpg"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\left-arrow.svg",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/images/left-arrow#[.{fingerprint}]?.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "bw0y4e2sb7",
-      "Integrity": "9SqIuxRzC7Tvpv/Fk3yffocuTaEfqJ8PNXgRPbqffYw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\left-arrow.svg"
-    },
-    {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\left-arrow-2.svg",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
@@ -1569,6 +1632,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\left-arrow-white-2.svg"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\left-arrow.svg",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/images/left-arrow#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bw0y4e2sb7",
+      "Integrity": "9SqIuxRzC7Tvpv/Fk3yffocuTaEfqJ8PNXgRPbqffYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\left-arrow.svg"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\living-room1.svg",
@@ -1634,27 +1718,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\minimal-woocommerce-s2.jpg"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\modern-architecture.jpg",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/images/modern-architecture#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "guwi3yqr85",
-      "Integrity": "yIHo5pnmDWcx0dfa9HMBv8XszLXlAesJWmb+Nu7s3KY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\modern-architecture.jpg"
-    },
-    {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\modern-architecture-s2.jpg",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
@@ -1674,6 +1737,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\modern-architecture-s2.jpg"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\modern-architecture.jpg",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/images/modern-architecture#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "guwi3yqr85",
+      "Integrity": "yIHo5pnmDWcx0dfa9HMBv8XszLXlAesJWmb+Nu7s3KY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\modern-architecture.jpg"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\modern-woocommerce.jpg",
@@ -1781,27 +1865,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\renovation.jpg"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\right-arrow.svg",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/images/right-arrow#[.{fingerprint}]?.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "iqx3a6c5hh",
-      "Integrity": "dhCs66SbCPr1iXdjJde6GDad52G25vG2uWUualzZJHw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\right-arrow.svg"
-    },
-    {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\right-arrow-2.svg",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
@@ -1863,6 +1926,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\right-arrow-white-3.svg"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\right-arrow.svg",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/images/right-arrow#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iqx3a6c5hh",
+      "Integrity": "dhCs66SbCPr1iXdjJde6GDad52G25vG2uWUualzZJHw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\right-arrow.svg"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\select-icon.png",
@@ -2033,27 +2117,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\gsap.js",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/js/gsap#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ierawf7e5u",
-      "Integrity": "xqomVCnUQSPQa9DT8ehxn8AWZ9yd6YLv/DBHeJkGJ7w=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\gsap.js"
-    },
-    {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\gsap-script.js",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
@@ -2138,12 +2201,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\gsap-split-text.js"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\jquery.min.js",
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\gsap.js",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
       "BasePath": "_content/Arqduqq",
-      "RelativePath": "assets/js/jquery.min#[.{fingerprint}]?.js",
+      "RelativePath": "assets/js/gsap#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2152,11 +2215,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8rgd86xrpu",
-      "Integrity": "FEZJmIIMU/dJrHld7PCgep4chhvYZ94bzuQuQwSu5pQ=",
+      "Fingerprint": "ierawf7e5u",
+      "Integrity": "xqomVCnUQSPQa9DT8ehxn8AWZ9yd6YLv/DBHeJkGJ7w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\gsap.js"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\jquery-plugin-collection.js",
@@ -2178,6 +2241,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-plugin-collection.js"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\jquery.min.js",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "assets/js/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rgd86xrpu",
+      "Integrity": "FEZJmIIMU/dJrHld7PCgep4chhvYZ94bzuQuQwSu5pQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.min.js"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\modernizr.custom.js",
@@ -2325,174 +2409,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
-    },
-    {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mpyigms19s",
-      "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "73kdqttayv",
-      "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "8inm30yfxf",
-      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ve6x09088i",
-      "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "4gxs3k148c",
-      "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "9b9oa1qrmt",
-      "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "fctod5rc9n",
-      "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -2999,6 +2915,174 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mpyigms19s",
+      "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "73kdqttayv",
+      "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ve6x09088i",
+      "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4gxs3k148c",
+      "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9b9oa1qrmt",
+      "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fctod5rc9n",
+      "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
@@ -3272,12 +3356,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
       "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3286,19 +3370,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fwhahm2icz",
-      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
+      "Fingerprint": "47otxtyo56",
+      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
       "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3307,19 +3391,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dd6z7egasc",
-      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
+      "Fingerprint": "4v8eqarkd7",
+      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
       "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3328,32 +3412,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5pze98is44",
-      "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
+      "Fingerprint": "356vix0kms",
+      "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "Arqduqq",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
-      "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mlv21k5csn",
-      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
       "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
@@ -3461,12 +3524,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
       "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3475,19 +3538,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "47otxtyo56",
-      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
+      "Fingerprint": "fwhahm2icz",
+      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
       "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3496,19 +3559,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4v8eqarkd7",
-      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
+      "Fingerprint": "dd6z7egasc",
+      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Arqduqq",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
       "BasePath": "_content/Arqduqq",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3517,11 +3580,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "356vix0kms",
-      "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
+      "Fingerprint": "5pze98is44",
+      "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Arqduqq",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Arqduqq\\wwwroot\\",
+      "BasePath": "_content/Arqduqq",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlv21k5csn",
+      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     }
   ],
   "Endpoints": [
@@ -3686,6 +3770,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-8qcTa4TPVZGHOdd4tMF+WYV1BggJMTm/fpTACHGnrKE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/arq-images/casa-relva1.iff7cfth7n.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\casa-relva1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3103532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"In5N/wHd09/pw+k2FbLYlLI4Dy9L0LxRhtRUeRdeWjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 12 Dec 2025 20:52:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iff7cfth7n"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/arq-images/casa-relva1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-In5N/wHd09/pw+k2FbLYlLI4Dy9L0LxRhtRUeRdeWjs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/arq-images/casa-relva1.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\casa-relva1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3103532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"In5N/wHd09/pw+k2FbLYlLI4Dy9L0LxRhtRUeRdeWjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 12 Dec 2025 20:52:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-In5N/wHd09/pw+k2FbLYlLI4Dy9L0LxRhtRUeRdeWjs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/arq-images/casa-relva2.lbtjw9rpxa.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\casa-relva2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5294864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Me/lFwI4JIVG3/qi3Lgr5OCNJ941pEgaQB3NxGWZArc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Dec 2025 15:13:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lbtjw9rpxa"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/arq-images/casa-relva2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Me/lFwI4JIVG3/qi3Lgr5OCNJ941pEgaQB3NxGWZArc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/arq-images/casa-relva2.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\casa-relva2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5294864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Me/lFwI4JIVG3/qi3Lgr5OCNJ941pEgaQB3NxGWZArc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Dec 2025 15:13:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Me/lFwI4JIVG3/qi3Lgr5OCNJ941pEgaQB3NxGWZArc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/arq-images/equolibrio1.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\equolibrio1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3384837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XtOl074hDkHghkqVpyMnkSsFUzUAXpG8qpn1N6+6ELU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 12 Dec 2025 21:04:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XtOl074hDkHghkqVpyMnkSsFUzUAXpG8qpn1N6+6ELU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/arq-images/equolibrio1.utvijmjeqb.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\equolibrio1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3384837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XtOl074hDkHghkqVpyMnkSsFUzUAXpG8qpn1N6+6ELU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 12 Dec 2025 21:04:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "utvijmjeqb"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/arq-images/equolibrio1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XtOl074hDkHghkqVpyMnkSsFUzUAXpG8qpn1N6+6ELU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/arq-images/logo-semfundo.bl6d6344kp.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\logo-semfundo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yas/uM888fT9TkCuSyQHIWarlNAqgMMDn07Gf2lgHis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 12 Dec 2025 21:11:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bl6d6344kp"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/arq-images/logo-semfundo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yas/uM888fT9TkCuSyQHIWarlNAqgMMDn07Gf2lgHis="
+        }
+      ]
+    },
+    {
+      "Route": "assets/arq-images/logo-semfundo.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\logo-semfundo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yas/uM888fT9TkCuSyQHIWarlNAqgMMDn07Gf2lgHis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 12 Dec 2025 21:11:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yas/uM888fT9TkCuSyQHIWarlNAqgMMDn07Gf2lgHis="
         }
       ]
     },
@@ -4346,88 +4758,6 @@
       ]
     },
     {
-      "Route": "assets/css/slick.css",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\css\\slick.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1729"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2RdmDD1veq0y68SwASxtC7hKE+IBoBLjNLzKS59Ghsk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2RdmDD1veq0y68SwASxtC7hKE+IBoBLjNLzKS59Ghsk="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/slick.psx3y2aomh.css",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\css\\slick.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1729"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2RdmDD1veq0y68SwASxtC7hKE+IBoBLjNLzKS59Ghsk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "psx3y2aomh"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/css/slick.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2RdmDD1veq0y68SwASxtC7hKE+IBoBLjNLzKS59Ghsk="
-        }
-      ]
-    },
-    {
       "Route": "assets/css/slick-theme.css",
       "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\css\\slick-theme.css",
       "Selectors": [],
@@ -4510,6 +4840,88 @@
       ]
     },
     {
+      "Route": "assets/css/slick.css",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\css\\slick.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2RdmDD1veq0y68SwASxtC7hKE+IBoBLjNLzKS59Ghsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2RdmDD1veq0y68SwASxtC7hKE+IBoBLjNLzKS59Ghsk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/slick.psx3y2aomh.css",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\css\\slick.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2RdmDD1veq0y68SwASxtC7hKE+IBoBLjNLzKS59Ghsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "psx3y2aomh"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/slick.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2RdmDD1veq0y68SwASxtC7hKE+IBoBLjNLzKS59Ghsk="
+        }
+      ]
+    },
+    {
       "Route": "assets/css/style.7kxqq2mgvu.css",
       "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\css\\style.css",
       "Selectors": [],
@@ -4532,7 +4944,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
+          "Value": "Fri, 12 Dec 2025 21:21:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4577,7 +4989,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
+          "Value": "Fri, 12 Dec 2025 21:21:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5494,6 +5906,88 @@
       ]
     },
     {
+      "Route": "assets/fonts/themify_1.eot",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\fonts\\themify_1.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/QV2uyRG2Xcpb4CBxoYJbdVCP8VjeW42Fl2lX25Mcs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3/QV2uyRG2Xcpb4CBxoYJbdVCP8VjeW42Fl2lX25Mcs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/themify_1.xoyi32mgbc.eot",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\fonts\\themify_1.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/QV2uyRG2Xcpb4CBxoYJbdVCP8VjeW42Fl2lX25Mcs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xoyi32mgbc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/themify_1.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3/QV2uyRG2Xcpb4CBxoYJbdVCP8VjeW42Fl2lX25Mcs="
+        }
+      ]
+    },
+    {
       "Route": "assets/fonts/themify.5kueo723u4.ttf",
       "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\fonts\\themify.ttf",
       "Selectors": [],
@@ -5736,252 +6230,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-3/QV2uyRG2Xcpb4CBxoYJbdVCP8VjeW42Fl2lX25Mcs="
-        }
-      ]
-    },
-    {
-      "Route": "assets/fonts/themify_1.eot",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\fonts\\themify_1.eot",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78748"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/vnd.ms-fontobject"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3/QV2uyRG2Xcpb4CBxoYJbdVCP8VjeW42Fl2lX25Mcs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3/QV2uyRG2Xcpb4CBxoYJbdVCP8VjeW42Fl2lX25Mcs="
-        }
-      ]
-    },
-    {
-      "Route": "assets/fonts/themify_1.xoyi32mgbc.eot",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\fonts\\themify_1.eot",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78748"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/vnd.ms-fontobject"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3/QV2uyRG2Xcpb4CBxoYJbdVCP8VjeW42Fl2lX25Mcs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xoyi32mgbc"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/fonts/themify_1.eot"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3/QV2uyRG2Xcpb4CBxoYJbdVCP8VjeW42Fl2lX25Mcs="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/1.f6xwhxcj12.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13816"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"98QmTzmJ3jdS2d8VaKp2tEU5RjfGfbaSUZ8sLwgzSFc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f6xwhxcj12"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/1.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-98QmTzmJ3jdS2d8VaKp2tEU5RjfGfbaSUZ8sLwgzSFc="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/1.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13816"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"98QmTzmJ3jdS2d8VaKp2tEU5RjfGfbaSUZ8sLwgzSFc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-98QmTzmJ3jdS2d8VaKp2tEU5RjfGfbaSUZ8sLwgzSFc="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/1.jsij276qoe.png",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\1.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2353"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"44Now5bHCaALb9LPWaEECGX8EnsJ7Z0HkRTYMuasSK0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jsij276qoe"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/1.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-44Now5bHCaALb9LPWaEECGX8EnsJ7Z0HkRTYMuasSK0="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/1.png",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\1.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2353"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"44Now5bHCaALb9LPWaEECGX8EnsJ7Z0HkRTYMuasSK0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-44Now5bHCaALb9LPWaEECGX8EnsJ7Z0HkRTYMuasSK0="
         }
       ]
     },
@@ -6232,8 +6480,8 @@
       ]
     },
     {
-      "Route": "assets/images/2.6cdpo58h3k.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\2.jpg",
+      "Route": "assets/images/1.f6xwhxcj12.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6242,7 +6490,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16099"
+          "Value": "13816"
         },
         {
           "Name": "Content-Type",
@@ -6250,7 +6498,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OuQz6vJei5zIcXvey/VtAUZndIdQu6X3DEBd+dbQ+Ac=\""
+          "Value": "\"98QmTzmJ3jdS2d8VaKp2tEU5RjfGfbaSUZ8sLwgzSFc=\""
         },
         {
           "Name": "Last-Modified",
@@ -6264,21 +6512,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6cdpo58h3k"
+          "Value": "f6xwhxcj12"
         },
         {
           "Name": "label",
-          "Value": "assets/images/2.jpg"
+          "Value": "assets/images/1.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OuQz6vJei5zIcXvey/VtAUZndIdQu6X3DEBd+dbQ+Ac="
+          "Value": "sha256-98QmTzmJ3jdS2d8VaKp2tEU5RjfGfbaSUZ8sLwgzSFc="
         }
       ]
     },
     {
-      "Route": "assets/images/2.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\2.jpg",
+      "Route": "assets/images/1.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6287,7 +6535,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16099"
+          "Value": "13816"
         },
         {
           "Name": "Content-Type",
@@ -6295,7 +6543,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OuQz6vJei5zIcXvey/VtAUZndIdQu6X3DEBd+dbQ+Ac=\""
+          "Value": "\"98QmTzmJ3jdS2d8VaKp2tEU5RjfGfbaSUZ8sLwgzSFc=\""
         },
         {
           "Name": "Last-Modified",
@@ -6309,13 +6557,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OuQz6vJei5zIcXvey/VtAUZndIdQu6X3DEBd+dbQ+Ac="
+          "Value": "sha256-98QmTzmJ3jdS2d8VaKp2tEU5RjfGfbaSUZ8sLwgzSFc="
         }
       ]
     },
     {
-      "Route": "assets/images/2.m3bep1czxn.png",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\2.png",
+      "Route": "assets/images/1.jsij276qoe.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6324,7 +6572,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3001"
+          "Value": "2353"
         },
         {
           "Name": "Content-Type",
@@ -6332,7 +6580,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sgwqTV/zUi8pLVhoDgrJBOVrFuLvypQm+K3ruIC1LY8=\""
+          "Value": "\"44Now5bHCaALb9LPWaEECGX8EnsJ7Z0HkRTYMuasSK0=\""
         },
         {
           "Name": "Last-Modified",
@@ -6346,21 +6594,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m3bep1czxn"
+          "Value": "jsij276qoe"
         },
         {
           "Name": "label",
-          "Value": "assets/images/2.png"
+          "Value": "assets/images/1.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-sgwqTV/zUi8pLVhoDgrJBOVrFuLvypQm+K3ruIC1LY8="
+          "Value": "sha256-44Now5bHCaALb9LPWaEECGX8EnsJ7Z0HkRTYMuasSK0="
         }
       ]
     },
     {
-      "Route": "assets/images/2.png",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\2.png",
+      "Route": "assets/images/1.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6369,7 +6617,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3001"
+          "Value": "2353"
         },
         {
           "Name": "Content-Type",
@@ -6377,7 +6625,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sgwqTV/zUi8pLVhoDgrJBOVrFuLvypQm+K3ruIC1LY8=\""
+          "Value": "\"44Now5bHCaALb9LPWaEECGX8EnsJ7Z0HkRTYMuasSK0=\""
         },
         {
           "Name": "Last-Modified",
@@ -6391,7 +6639,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sgwqTV/zUi8pLVhoDgrJBOVrFuLvypQm+K3ruIC1LY8="
+          "Value": "sha256-44Now5bHCaALb9LPWaEECGX8EnsJ7Z0HkRTYMuasSK0="
         }
       ]
     },
@@ -6642,8 +6890,8 @@
       ]
     },
     {
-      "Route": "assets/images/3.6fsd8s3lx2.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\3.jpg",
+      "Route": "assets/images/2.6cdpo58h3k.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6652,7 +6900,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12145"
+          "Value": "16099"
         },
         {
           "Name": "Content-Type",
@@ -6660,7 +6908,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3saNNjm/14HP5txGLrFR1T2fvEiJ63pMlaZVdzZJ57c=\""
+          "Value": "\"OuQz6vJei5zIcXvey/VtAUZndIdQu6X3DEBd+dbQ+Ac=\""
         },
         {
           "Name": "Last-Modified",
@@ -6674,21 +6922,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6fsd8s3lx2"
+          "Value": "6cdpo58h3k"
         },
         {
           "Name": "label",
-          "Value": "assets/images/3.jpg"
+          "Value": "assets/images/2.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3saNNjm/14HP5txGLrFR1T2fvEiJ63pMlaZVdzZJ57c="
+          "Value": "sha256-OuQz6vJei5zIcXvey/VtAUZndIdQu6X3DEBd+dbQ+Ac="
         }
       ]
     },
     {
-      "Route": "assets/images/3.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\3.jpg",
+      "Route": "assets/images/2.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6697,7 +6945,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12145"
+          "Value": "16099"
         },
         {
           "Name": "Content-Type",
@@ -6705,7 +6953,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3saNNjm/14HP5txGLrFR1T2fvEiJ63pMlaZVdzZJ57c=\""
+          "Value": "\"OuQz6vJei5zIcXvey/VtAUZndIdQu6X3DEBd+dbQ+Ac=\""
         },
         {
           "Name": "Last-Modified",
@@ -6719,13 +6967,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3saNNjm/14HP5txGLrFR1T2fvEiJ63pMlaZVdzZJ57c="
+          "Value": "sha256-OuQz6vJei5zIcXvey/VtAUZndIdQu6X3DEBd+dbQ+Ac="
         }
       ]
     },
     {
-      "Route": "assets/images/3.png",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\3.png",
+      "Route": "assets/images/2.m3bep1czxn.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6734,7 +6982,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2471"
+          "Value": "3001"
         },
         {
           "Name": "Content-Type",
@@ -6742,44 +6990,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F3RidOtQ6UVz3npe3xU2i6wmEc+/TAIBTad9FZG6/T8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-F3RidOtQ6UVz3npe3xU2i6wmEc+/TAIBTad9FZG6/T8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/3.z191stu2zn.png",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\3.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2471"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"F3RidOtQ6UVz3npe3xU2i6wmEc+/TAIBTad9FZG6/T8=\""
+          "Value": "\"sgwqTV/zUi8pLVhoDgrJBOVrFuLvypQm+K3ruIC1LY8=\""
         },
         {
           "Name": "Last-Modified",
@@ -6793,15 +7004,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z191stu2zn"
+          "Value": "m3bep1czxn"
         },
         {
           "Name": "label",
-          "Value": "assets/images/3.png"
+          "Value": "assets/images/2.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-F3RidOtQ6UVz3npe3xU2i6wmEc+/TAIBTad9FZG6/T8="
+          "Value": "sha256-sgwqTV/zUi8pLVhoDgrJBOVrFuLvypQm+K3ruIC1LY8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/2.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sgwqTV/zUi8pLVhoDgrJBOVrFuLvypQm+K3ruIC1LY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sgwqTV/zUi8pLVhoDgrJBOVrFuLvypQm+K3ruIC1LY8="
         }
       ]
     },
@@ -6970,6 +7218,252 @@
       ]
     },
     {
+      "Route": "assets/images/3.6fsd8s3lx2.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3saNNjm/14HP5txGLrFR1T2fvEiJ63pMlaZVdzZJ57c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6fsd8s3lx2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3saNNjm/14HP5txGLrFR1T2fvEiJ63pMlaZVdzZJ57c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/3.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3saNNjm/14HP5txGLrFR1T2fvEiJ63pMlaZVdzZJ57c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3saNNjm/14HP5txGLrFR1T2fvEiJ63pMlaZVdzZJ57c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/3.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F3RidOtQ6UVz3npe3xU2i6wmEc+/TAIBTad9FZG6/T8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F3RidOtQ6UVz3npe3xU2i6wmEc+/TAIBTad9FZG6/T8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/3.z191stu2zn.png",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F3RidOtQ6UVz3npe3xU2i6wmEc+/TAIBTad9FZG6/T8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z191stu2zn"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F3RidOtQ6UVz3npe3xU2i6wmEc+/TAIBTad9FZG6/T8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/4_1.28hesgf3i7.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\4_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TiUDp/6RnOKy962TyoQjMgIqM/V+EfkjAwVIWUEhRmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "28hesgf3i7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/4_1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TiUDp/6RnOKy962TyoQjMgIqM/V+EfkjAwVIWUEhRmc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/4_1.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\4_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TiUDp/6RnOKy962TyoQjMgIqM/V+EfkjAwVIWUEhRmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TiUDp/6RnOKy962TyoQjMgIqM/V+EfkjAwVIWUEhRmc="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/4.jpg",
       "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\4.jpg",
       "Selectors": [],
@@ -7130,88 +7624,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-ciZf3m0tkJdFQxQAJztG54ZGSIaQ0gnIZNflEVAKu3c="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/4_1.28hesgf3i7.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\4_1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "59015"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TiUDp/6RnOKy962TyoQjMgIqM/V+EfkjAwVIWUEhRmc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "28hesgf3i7"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/4_1.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-TiUDp/6RnOKy962TyoQjMgIqM/V+EfkjAwVIWUEhRmc="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/4_1.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\4_1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "59015"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TiUDp/6RnOKy962TyoQjMgIqM/V+EfkjAwVIWUEhRmc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-TiUDp/6RnOKy962TyoQjMgIqM/V+EfkjAwVIWUEhRmc="
         }
       ]
     },
@@ -7544,88 +7956,6 @@
       ]
     },
     {
-      "Route": "assets/images/classic-architecture.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-architecture.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "102257"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"drD6z3RifFySG99PMrivNJ351NRCvLKhZxGsxXqe/LU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-drD6z3RifFySG99PMrivNJ351NRCvLKhZxGsxXqe/LU="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/classic-architecture.ubadaksko3.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-architecture.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "102257"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"drD6z3RifFySG99PMrivNJ351NRCvLKhZxGsxXqe/LU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ubadaksko3"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/classic-architecture.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-drD6z3RifFySG99PMrivNJ351NRCvLKhZxGsxXqe/LU="
-        }
-      ]
-    },
-    {
       "Route": "assets/images/classic-architecture-dark.jbqxa8sr5i.jpg",
       "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-architecture-dark.jpg",
       "Selectors": [],
@@ -7708,8 +8038,8 @@
       ]
     },
     {
-      "Route": "assets/images/classic-interior-design.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-interior-design.jpg",
+      "Route": "assets/images/classic-architecture.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-architecture.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7718,7 +8048,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "83884"
+          "Value": "102257"
         },
         {
           "Name": "Content-Type",
@@ -7726,7 +8056,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mOfhDkpkAMDrSjsGhEzV1DD1T37UMFCkWX9A24BGffw=\""
+          "Value": "\"drD6z3RifFySG99PMrivNJ351NRCvLKhZxGsxXqe/LU=\""
         },
         {
           "Name": "Last-Modified",
@@ -7740,13 +8070,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mOfhDkpkAMDrSjsGhEzV1DD1T37UMFCkWX9A24BGffw="
+          "Value": "sha256-drD6z3RifFySG99PMrivNJ351NRCvLKhZxGsxXqe/LU="
         }
       ]
     },
     {
-      "Route": "assets/images/classic-interior-design.k13kkybrz3.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-interior-design.jpg",
+      "Route": "assets/images/classic-architecture.ubadaksko3.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-architecture.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7755,7 +8085,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "83884"
+          "Value": "102257"
         },
         {
           "Name": "Content-Type",
@@ -7763,7 +8093,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mOfhDkpkAMDrSjsGhEzV1DD1T37UMFCkWX9A24BGffw=\""
+          "Value": "\"drD6z3RifFySG99PMrivNJ351NRCvLKhZxGsxXqe/LU=\""
         },
         {
           "Name": "Last-Modified",
@@ -7777,15 +8107,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k13kkybrz3"
+          "Value": "ubadaksko3"
         },
         {
           "Name": "label",
-          "Value": "assets/images/classic-interior-design.jpg"
+          "Value": "assets/images/classic-architecture.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mOfhDkpkAMDrSjsGhEzV1DD1T37UMFCkWX9A24BGffw="
+          "Value": "sha256-drD6z3RifFySG99PMrivNJ351NRCvLKhZxGsxXqe/LU="
         }
       ]
     },
@@ -7954,6 +8284,88 @@
       ]
     },
     {
+      "Route": "assets/images/classic-interior-design.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-interior-design.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mOfhDkpkAMDrSjsGhEzV1DD1T37UMFCkWX9A24BGffw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mOfhDkpkAMDrSjsGhEzV1DD1T37UMFCkWX9A24BGffw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/classic-interior-design.k13kkybrz3.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\classic-interior-design.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mOfhDkpkAMDrSjsGhEzV1DD1T37UMFCkWX9A24BGffw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k13kkybrz3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/classic-interior-design.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mOfhDkpkAMDrSjsGhEzV1DD1T37UMFCkWX9A24BGffw="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/construction-profile.jpg",
       "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\construction-profile.jpg",
       "Selectors": [],
@@ -8036,88 +8448,6 @@
       ]
     },
     {
-      "Route": "assets/images/costruction.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\costruction.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "81081"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eTrarnfwkSh0Id91Jkxq8HTKFd2RQFpctEKxWuBT2xA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-eTrarnfwkSh0Id91Jkxq8HTKFd2RQFpctEKxWuBT2xA="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/costruction.powwd8wu3s.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\costruction.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "81081"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eTrarnfwkSh0Id91Jkxq8HTKFd2RQFpctEKxWuBT2xA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "powwd8wu3s"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/costruction.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eTrarnfwkSh0Id91Jkxq8HTKFd2RQFpctEKxWuBT2xA="
-        }
-      ]
-    },
-    {
       "Route": "assets/images/costruction-s2.btal3qiv0n.jpg",
       "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\costruction-s2.jpg",
       "Selectors": [],
@@ -8196,6 +8526,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-/5TVGHigCQkbmCTX2IKN56j8BP3iY/T7vhBf0nt8OpM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/costruction.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\costruction.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eTrarnfwkSh0Id91Jkxq8HTKFd2RQFpctEKxWuBT2xA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eTrarnfwkSh0Id91Jkxq8HTKFd2RQFpctEKxWuBT2xA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/costruction.powwd8wu3s.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\costruction.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eTrarnfwkSh0Id91Jkxq8HTKFd2RQFpctEKxWuBT2xA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "powwd8wu3s"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/costruction.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eTrarnfwkSh0Id91Jkxq8HTKFd2RQFpctEKxWuBT2xA="
         }
       ]
     },
@@ -9348,88 +9760,6 @@
       ]
     },
     {
-      "Route": "assets/images/left-arrow.bw0y4e2sb7.svg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\left-arrow.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "797"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9SqIuxRzC7Tvpv/Fk3yffocuTaEfqJ8PNXgRPbqffYw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bw0y4e2sb7"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/left-arrow.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9SqIuxRzC7Tvpv/Fk3yffocuTaEfqJ8PNXgRPbqffYw="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/left-arrow.svg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\left-arrow.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "797"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9SqIuxRzC7Tvpv/Fk3yffocuTaEfqJ8PNXgRPbqffYw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9SqIuxRzC7Tvpv/Fk3yffocuTaEfqJ8PNXgRPbqffYw="
-        }
-      ]
-    },
-    {
       "Route": "assets/images/left-arrow-2.4m2ec6l608.svg",
       "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\left-arrow-2.svg",
       "Selectors": [],
@@ -9590,6 +9920,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-eIiQ+VCjVlRmUGXlG5GODxWFN/o1SPHC21LC0r9G2Qw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/left-arrow.bw0y4e2sb7.svg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\left-arrow.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9SqIuxRzC7Tvpv/Fk3yffocuTaEfqJ8PNXgRPbqffYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bw0y4e2sb7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/left-arrow.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9SqIuxRzC7Tvpv/Fk3yffocuTaEfqJ8PNXgRPbqffYw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/left-arrow.svg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\left-arrow.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9SqIuxRzC7Tvpv/Fk3yffocuTaEfqJ8PNXgRPbqffYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9SqIuxRzC7Tvpv/Fk3yffocuTaEfqJ8PNXgRPbqffYw="
         }
       ]
     },
@@ -9840,88 +10252,6 @@
       ]
     },
     {
-      "Route": "assets/images/modern-architecture.guwi3yqr85.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\modern-architecture.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "84928"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yIHo5pnmDWcx0dfa9HMBv8XszLXlAesJWmb+Nu7s3KY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "guwi3yqr85"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/modern-architecture.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-yIHo5pnmDWcx0dfa9HMBv8XszLXlAesJWmb+Nu7s3KY="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/modern-architecture.jpg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\modern-architecture.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "84928"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yIHo5pnmDWcx0dfa9HMBv8XszLXlAesJWmb+Nu7s3KY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yIHo5pnmDWcx0dfa9HMBv8XszLXlAesJWmb+Nu7s3KY="
-        }
-      ]
-    },
-    {
       "Route": "assets/images/modern-architecture-s2.g8qkswkmoj.jpg",
       "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\modern-architecture-s2.jpg",
       "Selectors": [],
@@ -10000,6 +10330,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-MGIky21OvoyyjlDxQrryVE4wkMNHqlH/Jtn0JhNHhr8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/modern-architecture.guwi3yqr85.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\modern-architecture.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yIHo5pnmDWcx0dfa9HMBv8XszLXlAesJWmb+Nu7s3KY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "guwi3yqr85"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/modern-architecture.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yIHo5pnmDWcx0dfa9HMBv8XszLXlAesJWmb+Nu7s3KY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/modern-architecture.jpg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\modern-architecture.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yIHo5pnmDWcx0dfa9HMBv8XszLXlAesJWmb+Nu7s3KY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yIHo5pnmDWcx0dfa9HMBv8XszLXlAesJWmb+Nu7s3KY="
         }
       ]
     },
@@ -10414,88 +10826,6 @@
       ]
     },
     {
-      "Route": "assets/images/right-arrow.iqx3a6c5hh.svg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\right-arrow.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "805"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dhCs66SbCPr1iXdjJde6GDad52G25vG2uWUualzZJHw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "iqx3a6c5hh"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/right-arrow.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dhCs66SbCPr1iXdjJde6GDad52G25vG2uWUualzZJHw="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/right-arrow.svg",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\right-arrow.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "805"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dhCs66SbCPr1iXdjJde6GDad52G25vG2uWUualzZJHw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-dhCs66SbCPr1iXdjJde6GDad52G25vG2uWUualzZJHw="
-        }
-      ]
-    },
-    {
       "Route": "assets/images/right-arrow-2.qw0ytrzepk.svg",
       "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\right-arrow-2.svg",
       "Selectors": [],
@@ -10738,6 +11068,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-IwRtVRR1ERjTC1YxZaReZpiF9xbnpUwzMdYT1ds6C2g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/right-arrow.iqx3a6c5hh.svg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\right-arrow.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "805"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dhCs66SbCPr1iXdjJde6GDad52G25vG2uWUualzZJHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iqx3a6c5hh"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/right-arrow.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dhCs66SbCPr1iXdjJde6GDad52G25vG2uWUualzZJHw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/right-arrow.svg",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\images\\right-arrow.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "805"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dhCs66SbCPr1iXdjJde6GDad52G25vG2uWUualzZJHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dhCs66SbCPr1iXdjJde6GDad52G25vG2uWUualzZJHw="
         }
       ]
     },
@@ -11398,88 +11810,6 @@
       ]
     },
     {
-      "Route": "assets/js/gsap.ierawf7e5u.js",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\gsap.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89417"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xqomVCnUQSPQa9DT8ehxn8AWZ9yd6YLv/DBHeJkGJ7w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ierawf7e5u"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/js/gsap.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xqomVCnUQSPQa9DT8ehxn8AWZ9yd6YLv/DBHeJkGJ7w="
-        }
-      ]
-    },
-    {
-      "Route": "assets/js/gsap.js",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\gsap.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89417"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xqomVCnUQSPQa9DT8ehxn8AWZ9yd6YLv/DBHeJkGJ7w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xqomVCnUQSPQa9DT8ehxn8AWZ9yd6YLv/DBHeJkGJ7w="
-        }
-      ]
-    },
-    {
       "Route": "assets/js/gsap-script.js",
       "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\gsap-script.js",
       "Selectors": [],
@@ -11808,8 +12138,8 @@
       ]
     },
     {
-      "Route": "assets/js/jquery.min.8rgd86xrpu.js",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\jquery.min.js",
+      "Route": "assets/js/gsap.ierawf7e5u.js",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\gsap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11818,7 +12148,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "89501"
+          "Value": "89417"
         },
         {
           "Name": "Content-Type",
@@ -11826,7 +12156,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FEZJmIIMU/dJrHld7PCgep4chhvYZ94bzuQuQwSu5pQ=\""
+          "Value": "\"xqomVCnUQSPQa9DT8ehxn8AWZ9yd6YLv/DBHeJkGJ7w=\""
         },
         {
           "Name": "Last-Modified",
@@ -11840,21 +12170,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8rgd86xrpu"
+          "Value": "ierawf7e5u"
         },
         {
           "Name": "label",
-          "Value": "assets/js/jquery.min.js"
+          "Value": "assets/js/gsap.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FEZJmIIMU/dJrHld7PCgep4chhvYZ94bzuQuQwSu5pQ="
+          "Value": "sha256-xqomVCnUQSPQa9DT8ehxn8AWZ9yd6YLv/DBHeJkGJ7w="
         }
       ]
     },
     {
-      "Route": "assets/js/jquery.min.js",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\jquery.min.js",
+      "Route": "assets/js/gsap.js",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\gsap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11863,7 +12193,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "89501"
+          "Value": "89417"
         },
         {
           "Name": "Content-Type",
@@ -11871,7 +12201,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FEZJmIIMU/dJrHld7PCgep4chhvYZ94bzuQuQwSu5pQ=\""
+          "Value": "\"xqomVCnUQSPQa9DT8ehxn8AWZ9yd6YLv/DBHeJkGJ7w=\""
         },
         {
           "Name": "Last-Modified",
@@ -11885,7 +12215,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FEZJmIIMU/dJrHld7PCgep4chhvYZ94bzuQuQwSu5pQ="
+          "Value": "sha256-xqomVCnUQSPQa9DT8ehxn8AWZ9yd6YLv/DBHeJkGJ7w="
         }
       ]
     },
@@ -11968,6 +12298,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-EAlXzUY4LBZRNb7kcY1NJ2AD1grMXQMiBWlEVnWEN34="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery.min.8rgd86xrpu.js",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FEZJmIIMU/dJrHld7PCgep4chhvYZ94bzuQuQwSu5pQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rgd86xrpu"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FEZJmIIMU/dJrHld7PCgep4chhvYZ94bzuQuQwSu5pQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery.min.js",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FEZJmIIMU/dJrHld7PCgep4chhvYZ94bzuQuQwSu5pQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 22:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FEZJmIIMU/dJrHld7PCgep4chhvYZ94bzuQuQwSu5pQ="
         }
       ]
     },
@@ -12542,662 +12954,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "73kdqttayv"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8inm30yfxf"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mpyigms19s"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4gxs3k148c"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162825"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9b9oa1qrmt"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162825"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "661035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fctod5rc9n"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "661035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ve6x09088i"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
         }
       ]
     },
@@ -15170,6 +14926,662 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "73kdqttayv"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mpyigms19s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gxs3k148c"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9b9oa1qrmt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fctod5rc9n"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ve6x09088i"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
@@ -16236,8 +16648,8 @@
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16246,7 +16658,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "288580"
+          "Value": "19385"
         },
         {
           "Name": "Content-Type",
@@ -16254,253 +16666,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fwhahm2icz"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "288580"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "137972"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5pze98is44"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89501"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dd6z7egasc"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89501"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "137972"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
         },
         {
           "Name": "Last-Modified",
@@ -16514,21 +16680,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mlv21k5csn"
+          "Value": "47otxtyo56"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery/LICENSE.txt"
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
         }
       ]
     },
     {
-      "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16537,15 +16703,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1117"
+          "Value": "19385"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/plain"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
         },
         {
           "Name": "Last-Modified",
@@ -16559,7 +16725,171 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v8eqarkd7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "356vix0kms"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
         }
       ]
     },
@@ -16974,8 +17304,8 @@
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16984,7 +17314,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19385"
+          "Value": "288580"
         },
         {
           "Name": "Content-Type",
@@ -16992,11 +17322,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+          "Value": "Thu, 11 Dec 2025 18:24:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17006,21 +17336,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "47otxtyo56"
+          "Value": "fwhahm2icz"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+          "Value": "lib/jquery/dist/jquery.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17029,7 +17359,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19385"
+          "Value": "288580"
         },
         {
           "Name": "Content-Type",
@@ -17037,11 +17367,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
+          "Value": "Thu, 11 Dec 2025 18:24:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17051,13 +17381,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17066,89 +17396,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4v8eqarkd7"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 11 Dec 2025 18:24:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1139"
+          "Value": "137972"
         },
         {
           "Name": "Content-Type",
@@ -17156,7 +17404,171 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5pze98is44"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dd6z7egasc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 18:24:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
         },
         {
           "Name": "Last-Modified",
@@ -17170,21 +17582,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "356vix0kms"
+          "Value": "mlv21k5csn"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+          "Value": "lib/jquery/LICENSE.txt"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17193,7 +17605,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1139"
+          "Value": "1117"
         },
         {
           "Name": "Content-Type",
@@ -17201,7 +17613,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
         },
         {
           "Name": "Last-Modified",
@@ -17215,7 +17627,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
         }
       ]
     }

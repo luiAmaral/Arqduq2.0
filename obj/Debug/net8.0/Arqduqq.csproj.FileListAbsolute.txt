@@ -26,9 +26,9 @@ D:\Projetos\Arqduqq\obj\Debug\net8.0\staticwebassets\msbuild.build.Arqduqq.props
 D:\Projetos\Arqduqq\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Arqduqq.props
 D:\Projetos\Arqduqq\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Arqduqq.props
 D:\Projetos\Arqduqq\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Projetos\Arqduqq\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Projetos\Arqduqq\obj\Debug\net8.0\Arqduqq.dll
 D:\Projetos\Arqduqq\obj\Debug\net8.0\refint\Arqduqq.dll
 D:\Projetos\Arqduqq\obj\Debug\net8.0\Arqduqq.pdb
 D:\Projetos\Arqduqq\obj\Debug\net8.0\Arqduqq.genruntimeconfig.cache
 D:\Projetos\Arqduqq\obj\Debug\net8.0\ref\Arqduqq.dll
+D:\Projetos\Arqduqq\obj\Debug\net8.0\Arqduqq.sourcelink.json

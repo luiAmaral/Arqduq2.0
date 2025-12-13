@@ -2,17 +2,41 @@
     ViewData["Title"] = "Home Page";
 }
 
+<style>
+    /* Defina um tamanho fixo para o container da imagem se ainda não tiver */
+    .image-1{
+        width: 711px !important; /* ou a largura desejada em % */
+        height: 1037px !important; /* ou a altura desejada */
+        overflow: hidden !important; /* Garante que nada saia da caixa */
+    }
+
+    .image-2{
+        width: 620px !important; /* ou a largura desejada em % */
+        height: 700px !important; /* ou a altura desejada */
+        overflow: hidden !important; /* Garante que nada saia da caixa */
+    }
+
+    /* A mágica acontece aqui */
+    .image-1 img, 
+    .image-2 img {
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: cover !important; /* Isso faz a imagem agir como um "background-size: cover" */
+        object-position: center !important; /* Centraliza a imagem */
+    }
+</style>
 <section class="wpo-hero-slider">
     <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="slide-inner slide-bg-image" data-background="@Url.Content("~/assets/images/img-3.jpg")">
+                <div class="slide-inner slide-bg-image" data-background="@Url.Content("~/assets/arq-images/casa-relva1.png")">
                     <div class="container">
                         <div class="slide-content">
                             <div data-swiper-parallax="400" class="slide-sub-title">
-                                <h2>
-                                    Innovation in Every Line, Strength <span><img src="assets/images/hero-text.jpg" alt=""></span> in Every
-                                    Build
+                                <h2 >
+                                    Inovação em cada linha, Amor 
+                                    @* <span><img src="assets/images/hero-text.jpg" alt=""></span> *@
+                                     em cada espaço
                                 </h2>
                             </div>
                         </div>
@@ -20,13 +44,14 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="slide-inner slide-bg-image" data-background="@Url.Content("~/assets/images/img-2.jpg")">
+                <div class="slide-inner slide-bg-image" data-background="@Url.Content("~/assets/arq-images/equolibrio1.png")">
                     <div class="container">
                         <div class="slide-content">
                             <div data-swiper-parallax="400" class="slide-sub-title">
                                 <h2>
-                                    Innovation in Every Line, Strength <span><img src="assets/images/hero-text.jpg" alt=""></span> in Every
-                                    Build
+                                    Presença em cada canto, Luz 
+                                    @* <span><img src="assets/images/hero-text.jpg" alt=""></span> *@
+                                     em todo espaço
                                 </h2>
                             </div>
                         </div>
@@ -56,7 +81,7 @@
     </div>
 
     <a href="#about" class="scroll-btn">
-        <span>Scroll For More</span>
+        <span>Scrolle para mais</span>
         <div class="scroll-befor">
             <img src="assets/images/down-arrow.svg" alt="">
         </div>
@@ -67,14 +92,12 @@
 <section id="about" class="wpo-about-section section-padding pb-0">
     <div class="about-wrap">
         <div class="content">
-            <h2 class="poort-text poort-in-right">About Bliize</h2>
+            <h2 class="poort-text poort-in-right" style="color: #FFBD59">Sobre nós</h2>
             <p class="fade_bottom">
-                Blaze is a trailblazing architecture agency renowned for its innovative
-                approach to design, where
-                creativity meets functionality. From futuristic skyscrapers to timeless cultural landmarks, We
-                specializes in crafting spaces that inspire and endure. Blaze pushes boundaries, transforming
-                bold concepts into architectural masterpieces. Every project reflects a commitment to
-                eco-conscious practices and sustainable solutions. Blaze believes architecture is personal.
+                Somos um escritório de arquitetura apaixonado por transformar visões em realidade. 
+                Transformar espaços comuns em lares, escritórios e ambientes extraordinários é a nossa missão.
+                Apresentamos uma abordagem inovadora e personalizada para cada projeto, garantindo que cada detalhe 
+                reflita a essência e os desejos de nossos clientes.
             </p>
             <div class="about-btn fade_bottom">
                 <a href="about.php" class="theme-btn"> <span class="rolling-text">Discover More</span> </a>
@@ -89,21 +112,21 @@
                     <span>Watch Videos</span>
                 </div>
             </div>
-            <div class="about-funfact fade_bottom">
+            @* <div class="about-funfact fade_bottom">
                 <h3><span class="odometer" data-count="23">00</span> <span class="icon">+</span></h3>
                 <h4>
                     Years Of <br>
                     Experience
                 </h4>
-            </div>
+            </div> *@
         </div>
     </div>
     <div class="image">
         <div class="image-1  poort-in-right">
-            <img src="assets/images/1_3.jpg" alt="">
+            <img src="assets/arq-images/casa-relva1.png" alt="">
         </div>
         <div class="image-2 poort-in-right">
-            <img src="assets/images/2_3.jpg" alt="">
+            <img src="assets/arq-images/equolibrio1.png" alt="">
         </div>
     </div>
 </section>
@@ -112,7 +135,7 @@
 <section class="wpo-project-section section-padding">
     <div class="container-fulid">
         <div class="title">
-            <h2 class="poort-text poort-in-right">Our Works</h2>
+            <h2 class="poort-text poort-in-right">Nossos trabalhos</h2>
         </div>
         <div class="project-wrap">
             <div class="project-card fade_bottom">
@@ -124,18 +147,18 @@
                 </div>
             </div>
             <div class="project-card fade_bottom">
-                <img src="assets/images/2_1.jpg" alt="project-1">
-                <img src="assets/images/2_1.jpg" alt="project-1">
+                <img src="~/assets/arq-images/casa-relva1.png" alt="project-1">
+                <img src="~/assets/arq-images/casa-relva1.png" alt="project-1">
                 <div class="content">
-                    <h2><a href="project-single.php">Art Museum In Dubai </a></h2>
-                    <span>Building, Apartment</span>
+                    <h2><a href="project-single.php">Casa na Relva </a></h2>
+                    <span>Building, House</span>
                 </div>
             </div>
             <div class="project-card fade_bottom">
                 <img src="assets/images/3_2.jpg" alt="project-1">
                 <img src="assets/images/3_2.jpg" alt="project-1">
                 <div class="content">
-                    <h2><a href="project-single.php">Art Museum In Dubai</a></h2>
+                    <h2><a href="project-single.php">Casa na Relva</a></h2>
                     <span>Building, Apartment</span>
                 </div>
             </div>
@@ -149,7 +172,7 @@
             </div>
         </div>
         <div class="project-allBtn fade_bottom">
-            <a href="projects.php" class="theme-btn"><span class="rolling-text">See All Projects</span> <img src="assets/images/right-arrow-2.svg" alt=""></a>
+            <a href="projects.php" class="theme-btn"><span class="rolling-text">Ver mais</span> <img src="assets/images/right-arrow-2.svg" alt=""></a>
         </div>
     </div>
 </section>
@@ -159,10 +182,10 @@
     <div class="container-fluid p-0">
         <div class="service-top">
             <div class="image">
-                <img src="assets/images/service-bg.jpg" alt="service-bg">
+                <img src="assets/arq-images/service-bg.jpg" alt="service-bg">
             </div>
             <div class="content">
-                <h2 class="poort-text poort-in-right">Creating Landmark Spaces, One Blueprint at a Time</h2>
+                <h2 class="poort-text poort-in-right">Criação de conceito, arte e arquitetura</h2>
                 <p class="fade_bottom">
                     Cras nisl nibh commodo ullamcorper aliquet. Gravida orci laoreet eros
                     platea curabitur
@@ -178,7 +201,7 @@
                         <div class="icon">
                             <img src="assets/images/buildings1.svg" alt="icon">
                         </div>
-                        <h2><a href="service-single.php">Custom Solutions</a></h2>
+                        <h2><a href="service-single.php">Projetos Completos</a></h2>
                         <p>
                             Magnis lorem tinidunt eunamdictu mstlacus. Mattis risus vitae pretium viverra libero
                             dapibus.
@@ -190,7 +213,7 @@
                         <div class="icon">
                             <img src="assets/images/dining-room1.svg" alt="icon">
                         </div>
-                        <h2><a href="service-single.php">Furniture & Decor</a></h2>
+                        <h2><a href="service-single.php">Móveis e Decoração</a></h2>
                         <p>
                             Magnis lorem tinidunt eunamdictu mstlacus. Mattis risus vitae pretium viverra libero
                             dapibus.
@@ -202,7 +225,7 @@
                         <div class="icon">
                             <img src="assets/images/living-room1.svg" alt="icon">
                         </div>
-                        <h2><a href="service-single.php">Interior Design</a></h2>
+                        <h2><a href="service-single.php">Design de Interiores</a></h2>
                         <p>
                             Magnis lorem tinidunt eunamdictu mstlacus. Mattis risus vitae pretium viverra libero
                             dapibus.
@@ -214,7 +237,7 @@
                         <div class="icon">
                             <img src="assets/images/planning1.svg" alt="icon">
                         </div>
-                        <h2><a href="service-single.php">Design & Planning</a></h2>
+                        <h2><a href="service-single.php">Planejamento</a></h2>
                         <p>
                             Magnis lorem tinidunt eunamdictu mstlacus. Mattis risus vitae pretium viverra libero
                             dapibus.
