@@ -2,7 +2,11 @@
   "Files": [
     {
       "Id": "D:\\Projetos\\Arqduqq\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Arqduqq.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Arqduqq.yvxi81fhzs.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Arqduqq.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\Não confirmado 452158.crdownload",
+      "PackagePath": "staticwebassets\\assets\\arq-images\\Não confirmado 452158.crdownload"
     },
     {
       "Id": "D:\\Projetos\\Arqduqq\\wwwroot\\assets\\arq-images\\casa-relva1.png",
@@ -679,10 +683,6 @@
     {
       "Id": "D:\\Projetos\\Arqduqq\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Arqduqq.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Arqduqq.Microsoft.AspNetCore.StaticWebAssets.props",
