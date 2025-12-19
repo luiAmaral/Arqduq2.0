@@ -1,0 +1,25 @@
+# --- Build e Compilação (O mais importante) ---
+[Bb]in/
+[Oo]bj/
+
+# --- Visual Studio e IDEs ---
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# --- Arquivos específicos de usuário (mostrado na sua imagem) ---
+# Isso vai ignorar o 'Arqduqq.csproj.user' que aparece na sua lista
+*.csproj.user
+
+# --- Configurações de Ambiente/Segurança ---
+# O appsettings.json e appsettings.Development.json geralmente SÃO comitados.
+# Mas se você criar um arquivo com senhas locais, ignore-o:
+appsettings.Local.json
+secrets.json
+
+# --- Arquivos do Sistema Operacional ---
+.DS_Store
+Thumbs.db
