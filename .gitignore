@@ -1,25 +1,47 @@
-# --- Build e Compilação (O mais importante) ---
-[Bb]in/
-[Oo]bj/
+# Build and dependency folders
+bin/
+obj/
 
-# --- Visual Studio e IDEs ---
-.vs/
-.vscode/
-*.suo
+# User-specific files
 *.user
+*.suo
 *.userosscache
 *.sln.docstates
 
-# --- Arquivos específicos de usuário (mostrado na sua imagem) ---
-# Isso vai ignorar o 'Arqduqq.csproj.user' que aparece na sua lista
-*.csproj.user
+# Visual Studio Code
+.vscode/
 
-# --- Configurações de Ambiente/Segurança ---
-# O appsettings.json e appsettings.Development.json geralmente SÃO comitados.
-# Mas se você criar um arquivo com senhas locais, ignore-o:
-appsettings.Local.json
-secrets.json
+# Logs
+*.log
 
-# --- Arquivos do Sistema Operacional ---
+# OS generated files
 .DS_Store
 Thumbs.db
+
+# Others
+*.db
+*.cache
+*.pdb
+*.mdb
+*.pidb
+*.svclog
+*.scc
+*.swp
+*.bak
+*.tmp
+*.temp
+*.vspscc
+*.vssscc
+*.orig
+*.rej
+
+# NuGet
+*.nupkg
+# Packages folder
+packages/
+# Project lock files
+project.lock.json
+
+# Rider
+.idea/
+*.sln.iml
