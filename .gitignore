@@ -1,0 +1,47 @@
+# Build and dependency folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Others
+*.db
+*.cache
+*.pdb
+*.mdb
+*.pidb
+*.svclog
+*.scc
+*.swp
+*.bak
+*.tmp
+*.temp
+*.vspscc
+*.vssscc
+*.orig
+*.rej
+
+# NuGet
+*.nupkg
+# Packages folder
+packages/
+# Project lock files
+project.lock.json
+
+# Rider
+.idea/
+*.sln.iml
