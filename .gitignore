@@ -1,6 +1,7 @@
 # Build and dependency folders
 bin/
 obj/
+.vs/
 
 # User-specific files
 *.user

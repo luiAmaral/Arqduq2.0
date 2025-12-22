@@ -1,9 +1,64 @@
 @* Testimonial ViewComponent *@
+<style>
+    /* 1. Define o tamanho FIXO do container do slide */
+    .wpo-testimonial-section .testimonial-slider .item {
+        position: relative;      /* Necessário para posicionar a imagem dentro dele */
+        height: 800px;           /* Altura fixa para TODOS os slides */
+        overflow: hidden;        /* Garante que nada saia para fora */
+        display: flex;           /* Ajuda a centralizar o texto */
+        align-items: center;     /* Centraliza o texto verticalmente */
+        justify-content: center; /* Centraliza o texto horizontalmente */
+    }
+
+    /* 2. Faz a div da imagem ocupar 100% do espaço atrás do texto */
+    .wpo-testimonial-section .testimonial-slider .item .bg-image {
+        position: absolute;      /* Tira do fluxo normal para ficar "por trás" */
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 0;              /* Garante que fique atrás do texto */
+    }
+
+    /* 3. A imagem em si preenche tudo com o 'cover' */
+    .wpo-testimonial-section .testimonial-slider .item .bg-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;       /* Corta o excesso sem distorcer */
+        object-position: center;
+    }
+
+    /* 4. Garante que o texto fique NA FRENTE da imagem */
+    .wpo-testimonial-section .testimonial-slider .item .content {
+        position: relative;      /* Para aceitar z-index */
+        z-index: 2;              /* Fica na frente da imagem */
+        width: 100%;             /* Ocupa a largura */
+        padding: 0 15px;         /* Margem de segurança nas laterais */
+    }
+
+    /* 5. (Opcional) Cria uma camada escura para o texto branco ficar legível */
+    .wpo-testimonial-section .testimonial-slider .item .bg-image::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5); /* Escurece a imagem em 50% */
+    }
+
+    /* Ajuste para celular */
+    @@media (max-width: 767px) {
+        .wpo-testimonial-section .testimonial-slider .item {
+            height: 450px; /* Altura menor no celular */
+        }
+    }
+</style>
 <section class="wpo-testimonial-section">
     <div class="testimonial-slider owl-carousel">
         <div class="item">
             <div class="bg-image">
-                <img src="assets/images/img-1.jpg" alt="testimonial">
+                <img src="assets/arq-images/casa-ja2.png" alt="testimonial">
             </div>
             <div class="content fade_bottom">
                 <div class="icon">
@@ -18,7 +73,7 @@
         </div>
         <div class="item">
             <div class="bg-image">
-                <img src="assets/images/img-2.jpg" alt="testimonial">
+                <img src="assets/arq-images/casa-relva1.png" alt="testimonial">
             </div>
             <div class="content fade_bottom">
                 <div class="icon">
@@ -33,7 +88,7 @@
         </div>
         <div class="item">
             <div class="bg-image">
-                <img src="assets/images/img-3.jpg" alt="testimonial">
+                <img src="assets/arq-images/casa-rebeca1.png" alt="testimonial">
             </div>
             <div class="content fade_bottom">
                 <div class="icon">
