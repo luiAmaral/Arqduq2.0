@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace eduphishing2._0.ViewComponents
+namespace Arqduqq.ViewComponents
 {
     public class Footer : ViewComponent
     {
