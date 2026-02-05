@@ -28,27 +28,31 @@
                                 <li class="menu-item-has-children">
                                     <a href="#">Portifólio</a>
                                     <ul class="sub-menu">
-                                        <li><a asp-controller="ProjectAptBianca" asp-action="Index">Apartamento Bianca</a></li>
-                                        <li><a href="about.php">Casa na Relva</a></li>
                                         <li class="menu-item-has-children">
-                                            <a >Deco </a>
+                                            <a >Residencial </a>
                                             <ul class="sub-menu">
-                                                <li><a href="services.php">Móveis</a></li>
-                                                <li><a href="service-single.php">Decoração</a></li>
+                                                <li><a asp-controller="ProjectCasaNaRelva" asp-action="Index">Casa na Relva</a></li>
+                                                <li><a asp-controller="ProjectCasaBe" asp-action="Index">Casa BE</a></li>
+                                                <li><a asp-controller="ProjectCasaF" asp-action="Index">Casa F</a></li>
+                                                <li><a asp-controller="ProjectCasaV" asp-action="Index">Casa V</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a href="#">Interiores</a>
+                                            <a href="#">Saúde & Bem Estar</a>
                                             <ul class="sub-menu">
-                                                <li><a href="team.php">Team</a></li>
-                                                <li><a href="team-single.php">Team single</a></li>
+                                                <li><a asp-controller="ProjectProntocordis" asp-action="Index">Prontocordis</a></li>
+                                                <li><a asp-controller="ProjectStheClinic" asp-action="Index">Sthe Clinic</a></li>
+                                                <li><a asp-controller="ProjectSensus" asp-action="Index">Sensus</a></li>
+                                                <li><a asp-controller="ProjectEquilibrio" asp-action="Index">Equolibrio</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a href="#">Comerciais</a>
+                                            <a href="#">Comercial & Corporativo</a>
                                             <ul class="sub-menu">
-                                                <li><a href="team.php">Team</a></li>
-                                                <li><a href="team-single.php">Team single</a></li>
+                                                <li><a asp-controller="ProjectFeiraMundo" asp-action="Index">Feira Mundo</a></li>
+                                                <li><a asp-controller="ProjectAmAdvocacia" asp-action="Index">A&M Advocacia</a></li>
+                                                <li><a asp-controller="ProjectManieriAmostra" asp-action="Index">Manieri Amostra</a></li>
+                                                <li><a asp-controller="ProjectEssenz" asp-action="Index">Essenz</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -104,23 +108,24 @@
 
                     </div>
                     <div class="col-lg-2 col-md-2 col-2">
-                        <div class="header-right">
-                            <div class="header-search-form-wrapper">
-                                <div class="cart-search-contact">
-                                    <button class="search-toggle-btn"><i class="fi flaticon-loupe"></i></button>
-                                    <div class="header-search-form">
-                                        <form>
-                                            <div>
-                                                <input type="text" class="form-control" placeholder="Search here...">
-                                                <button type="submit"><i class="fi flaticon-loupe"></i></button>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
+                        <div class="header-right d-flex align-items-center justify-content-end">
+                            
+                            <div class="social-header-icons d-none d-lg-flex align-items-center gap-3 me-4">
+                                
+                                <a href="https://www.youtube.com/channel/UCo4KLmWcK7GwYtM2k1w81RA" target="_blank" class="search-toggle-btn d-flex align-items-center justify-content-center">
+                                    <i class="fa-brands fa-youtube" style="font-size: 1.3rem;"></i>
+                                </a>
+
+                                <a href="https://www.instagram.com/arqduq" target="_blank" class="search-toggle-btn d-flex align-items-center justify-content-center">
+                                    <i class="fa-brands fa-instagram" style="font-size: 1.3rem;"></i>
+                                </a>
+
+                                <a href="https://api.whatsapp.com/send/?phone=5569999172256&text=Ol%C3%A1%2C+estou+precisando+de+um+arquiteto%21&type=phone_number&app_absent=0" target="_blank" class="search-toggle-btn d-flex align-items-center justify-content-center">
+                                    <i class="fa-brands fa-whatsapp" style="font-size: 1.3rem;"></i>
+                                </a>
+
                             </div>
-                            <div class="close-form">
-                                <a class="theme-btn" href="contact.php">Contatos</a>
-                            </div>
+
                         </div>
                     </div>
                 </div>
